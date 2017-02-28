@@ -1,5 +1,6 @@
 # tutor
 Tutoring Materials for Foundations of Data Science, Spring 2017
+
 Professor John DeNero, Head of Support Vinitra Swamy
 
 ### Week 1
