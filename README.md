@@ -1,5 +1,6 @@
 # tutor
-Tutoring Materials for Data 8, Spring 2017
+Tutoring Materials for Foundations of Data Science, Spring 2017
+Professor John DeNero, Head of Support Vinitra Swamy
 
 ### Week 1
 Python Fundamentals - <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=data8assets&branch=gh-pages&path=materials/sp17/tutor/Week1"> Materials</a>
