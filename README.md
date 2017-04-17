@@ -40,7 +40,7 @@ Normal Distributions, Sample Means, Experiment Design, Correlation - <a href="ht
 Standard Units, Regression, Least Squares - <a href="https://github.com/data-8/tutor/tree/master/Week10"> Materials</a>
 
 ### Week 11
-Coming Soon!
+Residuals, Regression Inference, Classifiers – <a href="http://github.com/data-8/tutor/tree/master/Week11"> Materials </a> 
 
 ### Week 12 
 Coming Soon!
