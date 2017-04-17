@@ -37,7 +37,7 @@ Coming Soon!
 Normal Distributions, Sample Means, Experiment Design, Correlation - <a href="https://github.com/data-8/tutor/tree/master/Week9"> Materials</a>
 
 ### Week 10
-Coming Soon!
+Standard Units, Regression, Least Squares - <a href="https://github.com/data-8/tutor/tree/master/Week10"> Materials</a>
 
 ### Week 11
 Coming Soon!
