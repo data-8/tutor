@@ -30,13 +30,17 @@ Midterm Review 2 - <a href="http://datahub.berkeley.edu/user-redirect/interact?r
 ### Week 7
 P-Values, Simulation - <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=data8assets&branch=gh-pages&path=materials/sp17/tutor/Week7"> iPython Notebooks</a>
 
-### Week 8 - Coming Soon!
+### Week 8
+Coming Soon!
 
 ### Week 9
 Normal Distributions, Sample Means, Experiment Design, Correlation - <a href="https://github.com/data-8/tutor/tree/master/Week9"> Materials</a>
 
-### Week 10 - Coming Soon!
+### Week 10
+Coming Soon!
 
-### Week 11 - Coming Soon!
+### Week 11
+Coming Soon!
 
-### Week 12 - Coming Soon!
+### Week 12 
+Coming Soon!
