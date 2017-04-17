@@ -31,7 +31,7 @@ Midterm Review 2 - <a href="http://datahub.berkeley.edu/user-redirect/interact?r
 P-Values, Simulation - <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=data8assets&branch=gh-pages&path=materials/sp17/tutor/Week7"> iPython Notebooks</a>
 
 ### Week 8
-Coming Soon!
+Confidence Intervals - <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=data8assets&branch=gh-pages&path=materials/sp17/tutor/Week8"> iPython Notebooks</a>
 
 ### Week 9
 Normal Distributions, Sample Means, Experiment Design, Correlation - <a href="https://github.com/data-8/tutor/tree/master/Week9"> Materials</a>
