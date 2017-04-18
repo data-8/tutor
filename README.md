@@ -1,6 +1,7 @@
 # tutor
 Tutoring Materials for Foundations of Data Science, Spring 2017
 
+=======
 ### Instructors
 Professor: John DeNero
 
@@ -21,4 +22,25 @@ Visualization, Functions, Grouping - <a href="http://datahub.berkeley.edu/user-r
 Joins, Maps, Iteration - <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=data8assets&branch=gh-pages&path=materials/sp17/tutor/Week4"> iPython Notebooks</a>, <a href="https://github.com/data-8/tutor/tree/master/Week4"> Materials</a>
 
 ### Week 5
-Midterm 1 Review - <a href= "https://github.com/data-8/tutor/blob/master/Week5/Midterm1ReviewWorksheet.pdf"> Worksheet </a>, <a href="https://github.com/data-8/tutor/tree/master/Week5"> Materials</a>
+Midterm Review 1 - <a href= "https://github.com/data-8/tutor/blob/master/Week5/Midterm1ReviewWorksheet.pdf"> Worksheet </a>, <a href="https://github.com/data-8/tutor/tree/master/Week5"> Materials</a>
+
+### Week 6
+Midterm Review 2 - <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=data8assets&branch=gh-pages&path=materials/sp17/tutor/Week6"> iPython Notebooks</a>, <a href="https://github.com/data-8/tutor/tree/master/Week6"> Materials</a>
+
+### Week 7
+P-Values, Simulation - <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=data8assets&branch=gh-pages&path=materials/sp17/tutor/Week7"> iPython Notebooks</a>
+
+### Week 8
+Confidence Intervals - <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=data8assets&branch=gh-pages&path=materials/sp17/tutor/Week8"> iPython Notebooks</a>
+
+### Week 9
+Normal Distributions, Sample Means, Experiment Design, Correlation - <a href="https://github.com/data-8/tutor/tree/master/Week9"> Materials</a>
+
+### Week 10
+Standard Units, Regression, Least Squares - <a href="https://github.com/data-8/tutor/tree/master/Week10"> Materials</a>
+
+### Week 11
+Residuals, Regression Inference, Classifiers – <a href="http://github.com/data-8/tutor/tree/master/Week11"> Materials </a> 
+
+### Week 12 
+Coming Soon!
