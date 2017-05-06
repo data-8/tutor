@@ -25,7 +25,7 @@ Joins, Maps, Iteration - <a href="http://datahub.berkeley.edu/user-redirect/inte
 Midterm Review 1 - <a href= "https://github.com/data-8/tutor/blob/master/Week5/Midterm1ReviewWorksheet.pdf"> Worksheet </a>, <a href="https://github.com/data-8/tutor/tree/master/Week5"> Materials</a>
 
 ### Week 6
-Midterm Review 2 - <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=data8assets&branch=gh-pages&path=materials/sp17/tutor/Week6"> iPython Notebooks</a>, <a href="https://github.com/data-8/tutor/tree/master/Week6"> Materials</a>
+Midterm Review 2 - <a href="https://github.com/data-8/tutor/tree/master/Week6"> Materials</a>
 
 ### Week 7
 P-Values, Simulation - <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=data8assets&branch=gh-pages&path=materials/sp17/tutor/Week7"> iPython Notebooks</a>
