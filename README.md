@@ -43,4 +43,4 @@ Standard Units, Regression, Least Squares - <a href="https://github.com/data-8/t
 Residuals, Regression Inference, Classifiers – <a href="http://github.com/data-8/tutor/tree/master/Week11"> Materials </a> 
 
 ### Week 12 
-Coming Soon!
+Classification, General Review - <a href="http://datahub.berkeley.edu/user-redirect/interact?repo=tutor&branch=master&path=Week12"> iPython Notebooks</a>
